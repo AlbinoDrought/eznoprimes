@@ -1,0 +1,1 @@
+@badges=broadcaster/1,subscriber/3018,partner/1;returning-chatter=0;subscriber=1;turbo=0;badge-info=subscriber/18;color=#FFC2E5;flags;mod=0;user-type;emotes;first-msg=0;tmi-sent-ts=1682991722107 :eznoprimes!eznoprimes@eznoprimes.tmi.twitch.tv PRIVMSG #eznoprimes :!nonprimesubcount 123

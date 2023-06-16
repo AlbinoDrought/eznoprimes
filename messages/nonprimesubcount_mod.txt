@@ -1,0 +1,1 @@
+@emotes;first-msg=0;badge-info=subscriber/5;badges=moderator/1,subscriber/3,hype-train/1;flags;subscriber=1;mod=1;turbo=0;color=#001122;returning-chatter=0;user-type=mod :snip!snip@snip.tmi.twitch.tv PRIVMSG #eznoprimes :!nonprimesubcount 123

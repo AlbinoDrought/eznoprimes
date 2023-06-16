@@ -1,0 +1,1 @@
+@color=#FF69B4;mod=0;user-type;badges;first-msg=0;returning-chatter=0;turbo=0;badge-info;flags :snip!snip@snip.tmi.twitch.tv PRIVMSG #eznoprimes :!nonprimesubcount 3000
